@@ -1,0 +1,12 @@
+D:\Môn học\BMCSDL\lab4\20127072\20127072\obj\Debug\20127072.csproj.AssemblyReference.cache
+D:\Môn học\BMCSDL\lab4\20127072\20127072\obj\Debug\20127072.csproj.SuggestedBindingRedirects.cache
+D:\Môn học\BMCSDL\lab4\20127072\20127072\obj\Debug\_20127072.Properties.Resources.resources
+D:\Môn học\BMCSDL\lab4\20127072\20127072\obj\Debug\20127072.csproj.GenerateResource.cache
+D:\Môn học\BMCSDL\lab4\20127072\20127072\obj\Debug\20127072.csproj.CoreCompileInputs.cache
+D:\Môn học\BMCSDL\lab4\20127072\20127072\bin\Debug\20127072.exe.config
+D:\Môn học\BMCSDL\lab4\20127072\20127072\bin\Debug\20127072.exe
+D:\Môn học\BMCSDL\lab4\20127072\20127072\bin\Debug\20127072.pdb
+D:\Môn học\BMCSDL\lab4\20127072\20127072\obj\Debug\20127072.exe
+D:\Môn học\BMCSDL\lab4\20127072\20127072\obj\Debug\20127072.pdb
+D:\Môn học\BMCSDL\lab4\20127072\20127072\obj\Debug\WF1.Form2.resources
+D:\Môn học\BMCSDL\lab4\20127072\20127072\obj\Debug\WF1.Form1.resources
